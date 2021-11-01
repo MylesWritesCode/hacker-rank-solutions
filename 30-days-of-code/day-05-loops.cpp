@@ -1,3 +1,15 @@
+/*
+ * File: /day-05-loops.cpp
+ * Project: 30-days-of-code
+ * Created Date: Sunday October 31st 2021
+ * Author: Myles Berueda
+ * -----
+ * Last Modified: Sunday October 31st 2021 2:26:01 am
+ * -----
+ * Copyright (c) 2021 MylesWritesCode
+ * -----
+ * HISTORY
+ */
 #include <bits/stdc++.h>
 
 #include <string>

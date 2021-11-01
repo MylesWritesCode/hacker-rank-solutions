@@ -1,3 +1,15 @@
+/*
+ * File: /day-02-operators.cpp
+ * Project: 30-days-of-code
+ * Created Date: Saturday October 30th 2021
+ * Author: Myles Berueda
+ * -----
+ * Last Modified: Saturday October 30th 2021 10:54:46 pm
+ * -----
+ * Copyright (c) 2021 MylesWritesCode
+ * -----
+ * HISTORY
+ */
 #include <bits/stdc++.h>
 
 using namespace std;

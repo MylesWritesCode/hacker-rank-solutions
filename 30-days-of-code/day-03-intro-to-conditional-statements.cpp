@@ -1,3 +1,15 @@
+/*
+ * File: /day-03-intro-to-conditional-statements.cpp
+ * Project: 30-days-of-code
+ * Created Date: Saturday October 30th 2021
+ * Author: Myles Berueda
+ * -----
+ * Last Modified: Saturday October 30th 2021 11:24:28 pm
+ * -----
+ * Copyright (c) 2021 MylesWritesCode
+ * -----
+ * HISTORY
+ */
 #include <bits/stdc++.h>
 
 using namespace std;

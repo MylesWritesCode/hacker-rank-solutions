@@ -1,3 +1,15 @@
+/*
+ * File: /day-04-class-vs-instance.cpp
+ * Project: 30-days-of-code
+ * Created Date: Saturday October 30th 2021
+ * Author: Myles Berueda
+ * -----
+ * Last Modified: Saturday October 30th 2021 11:37:49 pm
+ * -----
+ * Copyright (c) 2021 MylesWritesCode
+ * -----
+ * HISTORY
+ */
 using namespace std;
 #include <iostream>
 

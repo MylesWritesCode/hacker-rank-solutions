@@ -1,3 +1,15 @@
+/*
+ * File: /day-06-lets-review.cpp
+ * Project: 30-days-of-code
+ * Created Date: Sunday October 31st 2021
+ * Author: Myles Berueda
+ * -----
+ * Last Modified: Sunday October 31st 2021 2:45:28 am
+ * -----
+ * Copyright (c) 2021 MylesWritesCode
+ * -----
+ * HISTORY
+ */
 #include <cmath>
 #include <cstdio>
 #include <vector>
