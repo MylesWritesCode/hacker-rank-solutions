@@ -25,7 +25,6 @@ int main() {
 
   int n = stoi(ltrim(rtrim(n_temp)));
   
-  int count = 0;
   
   // How the below while loop works. Each iteration first shifts the bits to the
   // left by 1, then runs bitwise & to output a new number. Each time & makes 
@@ -37,6 +36,7 @@ int main() {
   // &    = 0000010000000 = 128
   // <<1  = 0000100000000
   // &    = 0000000000000 = 0
+  int count = 0;
   while (n) {
     n = (n & (n << 1));
     count++;
