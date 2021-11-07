@@ -26,9 +26,10 @@ using namespace std;
 template <typename T>
 void printArray(const T &array) {
   for (const auto& element : array) {
-    cout << element << " ";
+    cout << element << endl;
+    // cout << element << " ";
   }
-  cout << endl;
+  // cout << endl;
 };
 
 int main() {
