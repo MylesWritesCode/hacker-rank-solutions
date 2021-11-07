@@ -50,7 +50,20 @@ class Solution {
 
   void levelOrder(Node* root) {
     // Write your code here
-    queue<int> queue;
+    queue<Node*> queue;
+    
+    if (root == NULL) return;
+    
+    queue.push(root);
+    
+    while (queue.empty() == false) {
+      Node* node = queue.front();
+      cout << node->data << " ";
+      queue.pop();
+      
+      if (node->left != NULL) queue.push(node->left);
+      if (node->right != NULL) queue.push(node->right);
+    }
   }
 
 };  // End of Solution
