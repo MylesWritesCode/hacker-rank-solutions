@@ -1,15 +1,17 @@
-/*
+/**
  * File: /day-23-bst-level-order-traversal.cpp
  * Project: 30-days-of-code
- * Created Date: Sunday November 7th 2021
- * Author: Myles Berueda
+ * Purpose: https://www.hackerrank.com/challenges/30-binary-trees/problem
+ * 
+ * @author Myles Berueda
+ * @date   Saturday November 6th 2021
  * -----
- * Last Modified: Sunday November 7th 2021 12:02:39 am
+ * Modified: Saturday November 6th 2021 9:59:15 pm
  * -----
  * Copyright (c) 2021 MylesWritesCode
  * -----
  * HISTORY
- */
+**/
 #include <cstddef>
 #include <cstdlib>
 #include <iostream>
