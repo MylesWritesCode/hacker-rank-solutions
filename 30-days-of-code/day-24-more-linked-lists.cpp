@@ -39,6 +39,7 @@ class Solution {
     // Write your code here
     Node* curr_node = head;
 
+    // This whole thing feels hacky, but it works for the test cases:
     while (curr_node->next != NULL) {
       if (curr_node->data == curr_node->next->data) {
         curr_node->next = curr_node->next->next;
